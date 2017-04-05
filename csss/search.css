@@ -1,0 +1,34 @@
+
+ul
+{
+list-style: none;
+margin: 17px 20px 20px 24px;
+width: 330px;
+}
+li
+{
+display: block;
+padding: 5px;
+background-color: #e0e0e0;
+border-bottom: 1px solid #367;
+}
+#content
+{
+
+width:500px;
+float:left;
+}
+#clear
+{ clear:both; }
+#box
+{
+float:left;
+margin:0 0 20px 0;
+text-align:justify;
+}
+input[type=text]
+{width:330px; height:35px;}
+input[type=submit]
+{
+width:90px; height:35px;
+}
